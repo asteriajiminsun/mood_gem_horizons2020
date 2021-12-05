@@ -1,0 +1,76 @@
+img {
+  display: block;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-image: url("background.jpg");
+  background-size: 1600px 900px;
+  font-family: "Futura";
+  color: white;
+
+}
+.first {
+    background-image: url("start.jpg");
+    background-size: 1800px 768px;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.mainFrameOne {
+  background-image: url("start.png")
+}
+
+.startBtn {
+  margin-left: auto;
+  margin-right: auto;
+}
+button {
+  margin-top: 1px;
+  margin-left: 400px;
+  margin-right: auto;
+  background-color: #c499a7;
+  border: none;
+  color: white;
+  border-radius: 100px;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Futura";
+}
+button:hover {
+  color: white;
+  background-color: #c2889b;
+}
+
+h3 {
+text-align: center;
+margin-left: 100px;
+margin-right: 100px;
+
+}
+
+.strtbtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  color:#c2889b;
+  font-size: 50px;
+}
