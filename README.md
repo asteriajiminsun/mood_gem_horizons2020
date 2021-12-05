@@ -1,4 +1,4 @@
-### Mood Gem
+# Mood Gem
 
 This project was done in HackGT: Horizons 2020 @ Georgia Institute of Technology
 
@@ -11,4 +11,5 @@ At the end of each day, you take seven-question long mini survey, and as a resul
 ## How we built it
 We created a web app of questionnaires using HTML, CSS, and Javascript. We drew gems on our own, and we utilized a laser cutter in order to make the wooden board and wooden figures of gems.
 
-
+## Link to Prototype Video
+https://youtu.be/08gEL022F2w
