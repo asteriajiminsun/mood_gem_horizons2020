@@ -1,4 +1,4 @@
-### mood_gem_horizons2020
+### Mood Gem
 
 This project was done in HackGT: Horizons 2020 @ Georgia Institute of Technology
 
